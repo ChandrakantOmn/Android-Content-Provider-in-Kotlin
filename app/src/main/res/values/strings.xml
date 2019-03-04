@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Content Provider in Kotlin</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="sentence">
+        <item>Android</item>
+        <item>ContentProvider</item>
+        <item>With</item>
+        <item>MindOrks</item>
+    </string-array>
+</resources>
